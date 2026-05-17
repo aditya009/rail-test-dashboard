@@ -4,7 +4,7 @@ Interactive Streamlit dashboard for the 5 rail-test-execution CSVs. Upload your
 CSVs, explore them across 5 dashboard tabs, and run ad-hoc SQL queries in a
 built-in playground.
 
-**Live demo**: _add your share.streamlit.app URL here after deploying_
+**Live demo**: https://aditya009-rail-test-dashboard.streamlit.app
 
 ## Features
 
@@ -24,11 +24,13 @@ git init
 git add .
 git commit -m "Initial commit: rail test dashboard"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/rail-test-dashboard.git
+git remote add origin git@github.com:aditya009/rail-test-dashboard.git
 git push -u origin main
 ```
 
 The repo **must be public** for Streamlit Community Cloud's free tier.
+
+*Note: If you get a 'Permission denied' error, ensure your SSH key is added to GitHub settings.*
 
 ### 2. Connect to Streamlit Cloud
 
@@ -40,6 +42,7 @@ The repo **must be public** for Streamlit Community Cloud's free tier.
 
 First build takes 2–3 minutes. You'll get a URL like
 `https://YOUR_USERNAME-rail-test-dashboard.streamlit.app`.
+`https://aditya009-rail-test-dashboard.streamlit.app`.
 
 ### 3. Updating the app
 

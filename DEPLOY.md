@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "Rail test execution dashboard"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/rail-test-dashboard.git
+git remote add origin git@github.com:aditya009/rail-test-dashboard.git
 git push -u origin main
 ```
 
@@ -102,6 +102,7 @@ itself just reloads — users see the new version on next interaction.
 | Build fails on `duckdb` | Old Python | `runtime.txt` should pin `3.11` — verify it's at the repo root |
 | App shows "Error 404" | Wrong main file path | In app settings, confirm it's `app.py` not `streamlit_app.py` |
 | Upload fails silently | File >50 MB | Bump `maxUploadSize` in `.streamlit/config.toml` |
+| `[rejected] (non-fast-forward)` | Remote has extra files | Run `git pull origin main --rebase` then push again |
 | Charts don't render | Plotly version mismatch | `pip install -r requirements.txt` locally to check it works there first |
 
 ## Removing the deployment
