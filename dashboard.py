@@ -143,6 +143,13 @@ def render_plan_comparison(exec_filter: list[str] | None = None) -> None:
     st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Top OD pairs with most mismatches")
+    # Build combined WHERE: the mismatch condition is always there, the
+    # execution filter is optional. Combining into one WHERE clause avoids
+    # the double-WHERE syntax error that occurs when both apply.
+    extra_filter = ""
+    if exec_filter:
+        ids = ", ".join(f"'{e}'" for e in exec_filter)
+        extra_filter = f"AND execCombinationId IN ({ids})"
     top = run_sql(f"""
         SELECT
             execCombinationId, originNlc, destinationNlc, journeyDate,
@@ -150,8 +157,8 @@ def render_plan_comparison(exec_filter: list[str] | None = None) -> None:
             expDistinctPlanCount AS expectedOnly,
             actDistinctPlanCount AS actualOnly,
             (expDistinctPlanCount + actDistinctPlanCount) AS totalMismatches
-        FROM TestPlanComparisonResult {where}
-        WHERE (expDistinctPlanCount + actDistinctPlanCount) > 0
+        FROM TestPlanComparisonResult
+        WHERE (expDistinctPlanCount + actDistinctPlanCount) > 0 {extra_filter}
         ORDER BY totalMismatches DESC
         LIMIT 50
     """)
