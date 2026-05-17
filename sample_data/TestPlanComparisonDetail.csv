@@ -1,0 +1,2379 @@
+execCombinationId,planFlowId,planId,expArrivalTime,expDepartureTime,expInterchange,expChangeAt,actArrivalTime,actDepartureTime,actInterchange,actChangeAt,soft_rule_key,status,expHasWalkLeg,actHasWalkLeg
+13_DEC25_132,124364172,1,05:31:00,00:44:00,3,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2970"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""8487"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,124364173,1,11:31:00,08:32:00,3,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2970"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""8487"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,142995872,1,00:12:00,23:24:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""1457"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,173496552,1,00:08:00,00:04:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,205896141,1,10:29:00,08:40:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,209094901,1,23:46:00,21:11:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,210294901,1,23:46:00,21:36:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,211843873,1,00:20:00,20:18:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2246"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,309295862,1,00:14:00,00:09:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,380999023,1,09:27:00,08:27:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,380999163,1,09:41:00,08:27:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,380999193,1,09:34:00,08:27:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,380999203,1,09:22:00,08:27:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,380999213,1,09:18:00,08:27:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,438721183,1,18:50:00,15:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,438721186,1,18:50:00,15:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,641712431,1,22:58:00,20:21:00,3,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""6691"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""6615"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1823"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,641712433,1,21:55:00,19:20:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""6691"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1823"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,696968882,2,01:02:00,00:26:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,696968882,1,00:37:00,00:02:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,975709912,1,00:34:00,00:24:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,975909912,1,00:34:00,00:21:00,0,"{
+  ""expChangeAt"": []
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,988218972,1,06:46:00,05:33:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""1947"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,3,14:27:00,13:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,5,17:20:00,16:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,6,18:19:00,17:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,4,16:26:00,15:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,1,10:28:00,09:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,2,12:28:00,11:32:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238091,7,20:58:00,20:03:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,2,10:26:00,09:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,6,23:43:00,22:37:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,3,16:25:00,15:03:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,5,21:00:00,20:03:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,1,08:27:00,07:32:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238092,4,18:28:00,17:32:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,990238093,1,11:44:00,10:30:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,6,18:19:00,16:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,4,16:26:00,14:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,2,12:28:00,11:19:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,7,20:58:00,19:50:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,5,17:20:00,15:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,3,14:27:00,12:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638091,1,10:28:00,08:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,5,21:00:00,19:50:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,1,08:27:00,07:19:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,6,23:43:00,22:24:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,2,10:26:00,08:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,4,18:28:00,17:19:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638092,3,16:25:00,14:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991638093,1,11:44:00,10:17:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,4,16:26:00,14:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,7,20:58:00,19:56:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,1,10:28:00,08:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,3,14:27:00,12:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,6,18:19:00,16:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,2,12:28:00,11:25:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938091,5,17:20:00,15:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,2,10:26:00,08:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,1,08:27:00,07:25:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,4,18:28:00,17:25:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,6,23:43:00,22:30:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,3,16:25:00,14:56:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938092,5,21:00:00,19:56:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,991938093,1,11:44:00,10:23:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,4,16:26:00,15:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,5,17:20:00,16:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,3,14:27:00,13:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,6,18:19:00,17:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,1,10:28:00,09:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,7,20:58:00,20:08:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038091,2,12:28:00,11:37:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,4,18:28:00,17:37:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,3,16:25:00,15:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,5,21:00:00,20:08:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,2,10:26:00,09:08:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,6,23:43:00,22:42:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038092,1,08:27:00,07:37:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992038093,1,11:44:00,10:36:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,3,14:27:00,13:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,1,10:28:00,09:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,5,17:20:00,16:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,2,12:28:00,11:41:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,7,20:58:00,20:12:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,6,18:19:00,17:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138091,4,16:26:00,15:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,3,16:25:00,15:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,6,23:43:00,22:46:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,4,18:28:00,17:41:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,1,08:27:00,07:41:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,5,21:00:00,20:12:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138092,2,10:26:00,09:12:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,992138093,1,11:44:00,10:40:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",,,,"{
+  ""actChangeAt"": []
+}",,Expected Only,,
+13_DEC25_132,124364172,2,,,,"{
+  ""expChangeAt"": []
+}",08:15:00,05:10:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:25:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:35:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,124364171,1,,,,"{
+  ""expChangeAt"": []
+}",08:13:00,05:25:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:11:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:36:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,988218972,2,,,,"{
+  ""expChangeAt"": []
+}",06:51:00,05:33:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1947"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721181,2,09:00:00,05:36:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2149"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": null
+  }]
+}",09:00:00,05:36:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:08:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,438721184,3,09:00:00,05:36:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2149"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": null
+  }]
+}",09:00:00,05:36:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:08:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,438721182,2,09:00:00,05:38:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2149"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": null
+  }]
+}",09:00:00,05:38:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:08:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:19:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,438721185,2,09:00:00,05:38:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2149"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": null
+  }]
+}",09:00:00,05:38:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:08:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:19:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843872,1,08:46:00,05:43:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",08:46:00,05:43:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:22:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843875,1,08:46:00,05:43:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",08:46:00,05:43:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:22:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843871,1,08:46:00,05:45:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",08:46:00,05:45:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843874,1,08:46:00,05:45:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",08:46:00,05:45:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,099093712,1,,,,"{
+  ""expChangeAt"": []
+}",06:52:00,06:26:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,1,,,,"{
+  ""expChangeAt"": []
+}",11:18:00,06:44:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,1,,,,"{
+  ""expChangeAt"": []
+}",11:17:00,06:46:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,224897092,1,,,,"{
+  ""expChangeAt"": []
+}",06:57:00,06:50:00,0,"{
+  ""actChangeAt"": []
+}",,Actual Only,,
+13_DEC25_132,991638092,7,,,,"{
+  ""expChangeAt"": []
+}",08:27:00,06:50:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,225597092,1,,,,"{
+  ""expChangeAt"": []
+}",06:57:00,06:52:00,0,"{
+  ""actChangeAt"": []
+}",,Actual Only,,
+13_DEC25_132,222597092,1,,,,"{
+  ""expChangeAt"": []
+}",06:57:00,06:54:00,0,"{
+  ""actChangeAt"": []
+}",,Actual Only,,
+13_DEC25_132,991938092,7,,,,"{
+  ""expChangeAt"": []
+}",08:27:00,06:56:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238092,7,,,,"{
+  ""expChangeAt"": []
+}",08:27:00,07:03:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038092,7,,,,"{
+  ""expChangeAt"": []
+}",08:27:00,07:08:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138092,7,,,,"{
+  ""expChangeAt"": []
+}",08:27:00,07:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,1,,,,"{
+  ""expChangeAt"": []
+}",08:21:00,07:26:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,1,,,,"{
+  ""expChangeAt"": []
+}",08:51:00,07:26:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:39:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,2,,,,"{
+  ""expChangeAt"": []
+}",12:09:00,07:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,2,,,,"{
+  ""expChangeAt"": []
+}",12:09:00,07:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,975909911,1,,,,"{
+  ""expChangeAt"": []
+}",08:46:00,08:02:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,975709911,1,,,,"{
+  ""expChangeAt"": []
+}",08:46:00,08:05:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,2,,,,"{
+  ""expChangeAt"": []
+}",09:55:00,08:11:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:55:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721181,1,,,,"{
+  ""expChangeAt"": []
+}",12:09:00,08:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:40:00""
+  }, {
+    ""nlc"": ""2753"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721184,1,,,,"{
+  ""expChangeAt"": []
+}",12:09:00,08:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:40:00""
+  }, {
+    ""nlc"": ""2753"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,3,,,,"{
+  ""expChangeAt"": []
+}",13:15:00,08:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,3,,,,"{
+  ""expChangeAt"": []
+}",13:14:00,08:51:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,124364173,4,11:35:00,08:58:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2771"",
+    ""interchangeTime"": null
+  }]
+}",11:35:00,08:58:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,380999253,1,,,,"{
+  ""expChangeAt"": []
+}",10:09:00,09:16:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:14:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238503,1,,,,"{
+  ""expChangeAt"": []
+}",10:26:00,09:18:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:22:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712433,2,,,,"{
+  ""expChangeAt"": []
+}",11:43:00,09:33:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992538091,1,,,,"{
+  ""expChangeAt"": []
+}",10:28:00,09:41:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,4,,,,"{
+  ""expChangeAt"": []
+}",14:11:00,09:53:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,4,,,,"{
+  ""expChangeAt"": []
+}",14:10:00,09:54:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,3,,,,"{
+  ""expChangeAt"": []
+}",11:25:00,10:10:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,2,,,,"{
+  ""expChangeAt"": []
+}",11:25:00,10:10:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:25:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991638093,2,,,,"{
+  ""expChangeAt"": []
+}",11:49:00,10:17:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938093,2,,,,"{
+  ""expChangeAt"": []
+}",11:49:00,10:23:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238093,2,,,,"{
+  ""expChangeAt"": []
+}",11:49:00,10:30:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238503,2,,,,"{
+  ""expChangeAt"": []
+}",12:17:00,10:30:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:51:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,385099023,1,,,,"{
+  ""expChangeAt"": []
+}",11:48:00,10:32:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:17:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038093,2,,,,"{
+  ""expChangeAt"": []
+}",11:49:00,10:36:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138093,2,,,,"{
+  ""expChangeAt"": []
+}",11:49:00,10:40:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:16:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,211843877,1,,,,"{
+  ""expChangeAt"": []
+}",14:41:00,10:44:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:48:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,211843871,2,13:41:00,10:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",13:41:00,10:50:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843874,2,13:41:00,10:50:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",13:41:00,10:50:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,124364173,5,13:36:00,10:54:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2771"",
+    ""interchangeTime"": null
+  }]
+}",13:36:00,10:54:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:32:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,438721189,1,,,,"{
+  ""expChangeAt"": []
+}",15:17:00,10:54:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:15:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:29:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,5,,,,"{
+  ""expChangeAt"": []
+}",15:16:00,10:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,5,,,,"{
+  ""expChangeAt"": []
+}",15:16:00,10:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,189798823,1,,,,"{
+  ""expChangeAt"": []
+}",12:35:00,11:04:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1127"",
+    ""interchangeTime"": ""00:15:00""
+  }, {
+    ""nlc"": ""1823"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,124364173,2,,,,"{
+  ""expChangeAt"": []
+}",14:12:00,11:13:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:24:00""
+  }, {
+    ""nlc"": ""8591"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420583,1,,,,"{
+  ""expChangeAt"": []
+}",12:51:00,11:17:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:45:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,124364173,3,,,,"{
+  ""expChangeAt"": []
+}",14:13:00,11:19:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1127"",
+    ""interchangeTime"": ""00:27:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992538091,2,,,,"{
+  ""expChangeAt"": []
+}",12:28:00,11:41:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,6,,,,"{
+  ""expChangeAt"": []
+}",16:14:00,11:53:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721189,2,,,,"{
+  ""expChangeAt"": []
+}",16:16:00,11:53:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:28:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,6,,,,"{
+  ""expChangeAt"": []
+}",16:14:00,11:54:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238503,3,,,,"{
+  ""expChangeAt"": []
+}",14:28:00,12:45:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:47:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992538093,1,,,,"{
+  ""expChangeAt"": []
+}",13:40:00,12:50:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:11:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721184,2,,,,"{
+  ""expChangeAt"": []
+}",16:14:00,12:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:40:00""
+  }, {
+    ""nlc"": ""2753"",
+    ""interchangeTime"": ""00:12:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,7,,,,"{
+  ""expChangeAt"": []
+}",17:14:00,12:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,7,,,,"{
+  ""expChangeAt"": []
+}",17:14:00,12:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721189,3,,,,"{
+  ""expChangeAt"": []
+}",17:17:00,12:57:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:28:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:11:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721189,4,,,,"{
+  ""expChangeAt"": []
+}",18:16:00,13:43:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:28:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:11:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,8,,,,"{
+  ""expChangeAt"": []
+}",18:17:00,13:52:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,8,,,,"{
+  ""expChangeAt"": []
+}",18:16:00,13:53:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,4,,,,"{
+  ""expChangeAt"": []
+}",15:17:00,14:09:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,3,,,,"{
+  ""expChangeAt"": []
+}",15:17:00,14:09:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:20:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420583,2,,,,"{
+  ""expChangeAt"": []
+}",15:48:00,14:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:47:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238503,4,,,,"{
+  ""expChangeAt"": []
+}",16:20:00,14:47:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:36:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,211843871,3,17:44:00,14:51:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",17:44:00,14:51:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,211843874,3,17:44:00,14:51:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2363"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1243"",
+    ""interchangeTime"": null
+  }]
+}",17:44:00,14:51:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,438721187,9,,,,"{
+  ""expChangeAt"": []
+}",19:14:00,14:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,9,,,,"{
+  ""expChangeAt"": []
+}",19:15:00,14:55:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721189,5,,,,"{
+  ""expChangeAt"": []
+}",19:18:00,14:57:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:28:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:11:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,5,,,,"{
+  ""expChangeAt"": []
+}",16:45:00,15:09:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:45:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,4,,,,"{
+  ""expChangeAt"": []
+}",16:45:00,15:11:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:45:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721183,2,,,,"{
+  ""expChangeAt"": []
+}",18:50:00,15:31:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:13:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721186,2,,,,"{
+  ""expChangeAt"": []
+}",18:50:00,15:31:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2384"",
+    ""interchangeTime"": ""00:13:00""
+  }, {
+    ""nlc"": ""2412"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721187,10,,,,"{
+  ""expChangeAt"": []
+}",20:16:00,15:52:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,10,,,,"{
+  ""expChangeAt"": []
+}",20:16:00,15:52:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:15:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721189,6,,,,"{
+  ""expChangeAt"": []
+}",20:15:00,15:56:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:28:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:11:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420583,3,,,,"{
+  ""expChangeAt"": []
+}",17:53:00,16:09:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:55:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,696968882,3,,,,"{
+  ""expChangeAt"": []
+}",17:05:00,16:50:00,0,"{
+  ""actChangeAt"": []
+}",,Actual Only,,
+13_DEC25_132,991638092,8,,,,"{
+  ""expChangeAt"": []
+}",18:28:00,16:50:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938092,8,,,,"{
+  ""expChangeAt"": []
+}",18:28:00,16:56:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238092,8,,,,"{
+  ""expChangeAt"": []
+}",18:28:00,17:03:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038092,8,,,,"{
+  ""expChangeAt"": []
+}",18:28:00,17:08:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138092,8,,,,"{
+  ""expChangeAt"": []
+}",18:28:00,17:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,6,,,,"{
+  ""expChangeAt"": []
+}",18:51:00,17:16:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:47:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,5,,,,"{
+  ""expChangeAt"": []
+}",18:51:00,17:17:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:46:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,099197571,1,,,,"{
+  ""expChangeAt"": []
+}",18:02:00,17:21:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:22:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,099197591,1,,,,"{
+  ""expChangeAt"": []
+}",18:05:00,17:21:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:22:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992538093,2,,,,"{
+  ""expChangeAt"": []
+}",18:29:00,17:43:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721188,11,,,,"{
+  ""expChangeAt"": []
+}",22:16:00,17:49:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2961"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:13:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,696968882,4,,,,"{
+  ""expChangeAt"": []
+}",18:39:00,18:24:00,0,"{
+  ""actChangeAt"": []
+}",,Actual Only,,
+13_DEC25_132,961420583,4,,,,"{
+  ""expChangeAt"": []
+}",19:39:00,18:31:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,975909912,2,,,,"{
+  ""expChangeAt"": []
+}",19:17:00,18:49:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:05:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,975709912,2,,,,"{
+  ""expChangeAt"": []
+}",19:17:00,18:52:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""9311"",
+    ""interchangeTime"": ""00:05:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721186,3,,,,"{
+  ""expChangeAt"": []
+}",22:20:00,18:57:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:42:00""
+  }, {
+    ""nlc"": ""2753"",
+    ""interchangeTime"": ""00:17:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712431,2,,,,"{
+  ""expChangeAt"": []
+}",21:56:00,19:04:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:25:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:10:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420581,7,,,,"{
+  ""expChangeAt"": []
+}",20:38:00,19:11:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:38:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,961420582,6,,,,"{
+  ""expChangeAt"": []
+}",20:38:00,19:11:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2118"",
+    ""interchangeTime"": ""00:38:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712432,1,,,,"{
+  ""expChangeAt"": []
+}",21:54:00,19:20:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712433,3,,,,"{
+  ""expChangeAt"": []
+}",21:54:00,19:20:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:20:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991638091,8,,,,"{
+  ""expChangeAt"": []
+}",21:18:00,19:50:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991638092,9,,,,"{
+  ""expChangeAt"": []
+}",21:17:00,19:50:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938091,8,,,,"{
+  ""expChangeAt"": []
+}",21:18:00,19:56:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938092,9,,,,"{
+  ""expChangeAt"": []
+}",21:17:00,19:56:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238091,8,,,,"{
+  ""expChangeAt"": []
+}",21:18:00,20:03:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238092,9,,,,"{
+  ""expChangeAt"": []
+}",21:17:00,20:03:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038091,8,,,,"{
+  ""expChangeAt"": []
+}",21:18:00,20:08:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038092,9,,,,"{
+  ""expChangeAt"": []
+}",21:17:00,20:08:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138091,8,,,,"{
+  ""expChangeAt"": []
+}",21:18:00,20:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:24:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138092,9,,,,"{
+  ""expChangeAt"": []
+}",21:17:00,20:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:21:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721183,3,,,,"{
+  ""expChangeAt"": []
+}",04:40:00,20:20:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:12:00""
+  }, {
+    ""nlc"": ""1402"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721186,4,,,,"{
+  ""expChangeAt"": []
+}",04:40:00,20:20:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1243"",
+    ""interchangeTime"": ""00:12:00""
+  }, {
+    ""nlc"": ""1402"",
+    ""interchangeTime"": ""00:08:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712432,3,22:58:00,20:21:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""6691"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""1823"",
+    ""interchangeTime"": null
+  }]
+}",22:58:00,20:21:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:17:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,992538091,3,,,,"{
+  ""expChangeAt"": []
+}",21:33:00,20:41:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:14:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721182,1,,,,"{
+  ""expChangeAt"": []
+}",05:07:00,20:59:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1127"",
+    ""interchangeTime"": ""00:17:00""
+  }, {
+    ""nlc"": ""1402"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,438721185,1,,,,"{
+  ""expChangeAt"": []
+}",05:07:00,20:59:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1127"",
+    ""interchangeTime"": ""00:17:00""
+  }, {
+    ""nlc"": ""1402"",
+    ""interchangeTime"": ""00:18:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,124364171,2,23:27:00,21:10:00,2,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""2771"",
+    ""interchangeTime"": null
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": null
+  }]
+}",23:27:00,21:10:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""2968"",
+    ""interchangeTime"": ""00:10:00""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:14:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,992538093,3,,,,"{
+  ""expChangeAt"": []
+}",22:09:00,21:12:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:19:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,641712432,2,,,,"{
+  ""expChangeAt"": []
+}",00:10:00,21:22:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1322"",
+    ""interchangeTime"": ""00:12:30""
+  }, {
+    ""nlc"": ""6691"",
+    ""interchangeTime"": ""00:12:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,988218972,3,,,,"{
+  ""expChangeAt"": []
+}",23:41:00,21:25:00,2,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""1127"",
+    ""interchangeTime"": ""00:25:00""
+  }, {
+    ""nlc"": ""1625"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991638091,9,23:09:00,21:25:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:25:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:23:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,991638092,12,23:09:00,21:25:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:25:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,991938091,9,23:09:00,21:31:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:31:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:23:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,991938092,12,23:09:00,21:31:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:31:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,990238091,9,23:09:00,21:38:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:38:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:23:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,990238092,12,23:09:00,21:38:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:38:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,990238502,1,,,,"{
+  ""expChangeAt"": []
+}",23:28:00,21:38:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:44:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038091,9,23:09:00,21:43:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:43:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:23:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,992038092,12,23:09:00,21:43:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:43:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,992138091,9,23:09:00,21:47:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:47:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:23:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,992138092,12,23:09:00,21:47:00,1,"{
+  ""expChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": null
+  }]
+}",23:09:00,21:47:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3674"",
+    ""interchangeTime"": ""00:28:00""
+  }]
+}",otts_are_considered_equivalent_if_departure_and_arrival_times_match_regardless_of_the_change_at,Soft Match,,
+13_DEC25_132,991638092,10,,,,"{
+  ""expChangeAt"": []
+}",23:49:00,22:24:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938092,10,,,,"{
+  ""expChangeAt"": []
+}",23:49:00,22:30:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238092,10,,,,"{
+  ""expChangeAt"": []
+}",23:49:00,22:37:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238502,2,,,,"{
+  ""expChangeAt"": []
+}",23:32:00,22:37:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038092,10,,,,"{
+  ""expChangeAt"": []
+}",23:49:00,22:42:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138092,10,,,,"{
+  ""expChangeAt"": []
+}",23:49:00,22:46:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:07:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991638092,11,,,,"{
+  ""expChangeAt"": []
+}",01:30:00,23:25:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:54:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,991938092,11,,,,"{
+  ""expChangeAt"": []
+}",01:30:00,23:31:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:54:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,990238092,11,,,,"{
+  ""expChangeAt"": []
+}",01:30:00,23:38:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:54:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992038092,11,,,,"{
+  ""expChangeAt"": []
+}",01:30:00,23:43:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:54:00""
+  }]
+}",,Actual Only,,
+13_DEC25_132,992138092,11,,,,"{
+  ""expChangeAt"": []
+}",01:30:00,23:47:00,1,"{
+  ""actChangeAt"": [{
+    ""nlc"": ""3899"",
+    ""interchangeTime"": ""00:54:00""
+  }]
+}",,Actual Only,,
